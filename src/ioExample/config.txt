@@ -1,0 +1,4 @@
+browser=chrome
+env=QA
+appURL=http://www.qa.example.com/
+timeout=10

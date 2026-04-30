@@ -1,0 +1,3 @@
+Automation execution started.
+Test cases 1 passed.
+Test cases 1 failed.
